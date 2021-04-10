@@ -37,3 +37,5 @@ With 2 billion monthly active users, YouTube is the 2nd most popular social medi
   8. Regression Analysis of Dislikes and Views
   9. Correlation between Views, Likes, and Dislikes
   10. Emoji Analysis of YouTube Comments
+
+> Libraries Used: pandas, numpy, matplotlib, seaborn, textblob
