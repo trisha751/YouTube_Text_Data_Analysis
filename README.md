@@ -48,3 +48,9 @@ With 2 billion monthly active users, YouTube is the 2nd most popular social medi
 
 ### Regression Analysis of Dislikes and Views
 ![dislikes and views](https://user-images.githubusercontent.com/30564193/114277609-cff86100-99f9-11eb-8a0e-a8d7ab8936fb.png)
+
+### Correlation between Likes, Dislikes, and Views
+![correlation](https://user-images.githubusercontent.com/30564193/114277699-4b5a1280-99fa-11eb-8a8b-f450897da6e7.png)
+
+### Emoji Analysis of YouTube Comments
+![emoji](https://user-images.githubusercontent.com/30564193/114279090-dc33ec80-9a00-11eb-8707-47df70a79a03.png)
