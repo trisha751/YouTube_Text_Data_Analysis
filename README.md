@@ -39,3 +39,8 @@ With 2 billion monthly active users, YouTube is the 2nd most popular social medi
   10. Emoji Analysis of YouTube Comments
 
 > Libraries Used: pandas, numpy, matplotlib, seaborn, textblob
+
+### Analyzing Trending Tags on YouTube
+![tags](https://user-images.githubusercontent.com/30564193/114277229-5318b780-99f8-11eb-9633-25eb93a6f5a8.png)
+
+(/images/logo.png)
