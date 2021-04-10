@@ -24,3 +24,16 @@ Sentiment analysis (also known as opinion mining or emotion AI) is the use of na
 
 ## YouTube Sentiment Analysis
 With 2 billion monthly active users, YouTube is the 2nd most popular social media platform and, based on total visitors and page views, 2nd only to Google as the world’s most visited website. Yet, it goes largely untapped when it comes to opinion mining and social listening. YouTube users continue to grow by the day, and YouTube comments can provide a wealth of information and actionable insights for any brand. All those unguarded opinions and open customer feedback are free for the taking when you have the right tools and technologies in place.
+
+### I have tried to analyze and vizualize the YouTube comments dataset by performing below steps:
+
+  1. Gathered YouTube Comments Data
+  2. Cleaned the Data
+  3. Analyzed and Visualized The Sentiment of YouTube Comments
+  4. Performed Exploratory Data Analysis (EDA) for Positive comments
+  5. Performed Exploratory Data Analysis (EDA) for Negative comments
+  6. Analyzed Trending Tags of YouTube Videos
+  7. Regression Analysis of Likes and Views
+  8. Regression Analysis of Dislikes and Views
+  9. Correlation between Views, Likes, and Dislikes
+  10. Emoji Analysis of YouTube Comments
