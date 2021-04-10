@@ -43,4 +43,6 @@ With 2 billion monthly active users, YouTube is the 2nd most popular social medi
 ### Analyzing Trending Tags on YouTube
 ![tags](https://user-images.githubusercontent.com/30564193/114277229-5318b780-99f8-11eb-9633-25eb93a6f5a8.png)
 
-(/images/logo.png)
+### Regression Analysis of Likes and Views
+![like and views](https://user-images.githubusercontent.com/30564193/114277514-83ad2100-99f9-11eb-9fe9-9ed8ac745d26.png)
+
