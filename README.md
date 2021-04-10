@@ -26,6 +26,7 @@ Sentiment analysis (also known as opinion mining or emotion AI) is the use of na
   - Next week's gig will be right koide9! ("Quoi de neuf?" Fr.: "what's new?". Newly minted terms can be highly attitudinal but volatile in polarity and often out of known vocabulary.)
 
 
+
 ## YouTube Sentiment Analysis
 With 2 billion monthly active users, YouTube is the 2nd most popular social media platform and, based on total visitors and page views, 2nd only to Google as the world’s most visited website. Yet, it goes largely untapped when it comes to opinion mining and social listening. YouTube users continue to grow by the day, and YouTube comments can provide a wealth of information and actionable insights for any brand. All those unguarded opinions and open customer feedback are free for the taking when you have the right tools and technologies in place.
 
